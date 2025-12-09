@@ -120,7 +120,7 @@
   <a href="https://sozaino.site/" target="_blank">
     https://sozaino.site/
   </a></p>
-
+  <hr>
 </div>
 
 <p style="font-size:12px; color:#666; margin-top:40px;">
