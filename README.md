@@ -1,1 +1,129 @@
-# neon-material-credits
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:24px;">
+  <img src="./neon_rogo1_light.png" width="50">
+  <img src="./neon_rogo1_VCMYK.png" width="50">
+
+  <div style="font-size:20px; font-weight:bold;">
+    ｜Neon 使用素材クレジット一覧
+  </div>
+</div>
+
+<p>
+  本一覧は、Neon公式アカウントの投稿動画や配信演出等において利用している<br>
+  * BGM/SE/画像/動画素材などのクレジット情報 * をまとめた一覧です。
+</p>
+
+<p>
+  ※ 本一覧は「Neonが制作・配布している素材」ではなく、<br>
+  「Neonが正規に利用している外部素材のクレジット管理」を目的としています。
+</p>
+
+<hr style="margin:32px 0;">
+<h2>利用素材サイト様・クリエイター様 一覧</h2>
+
+<div class="credit-list">
+
+  <p>⋄ ノタの森 様<br>
+  <a href="http://notanomori.net/" target="_blank">http://notanomori.net/</a></p>
+  <hr>
+
+  <p>⋄ 音楽素材 PeriTune 様<br>
+  <a href="https://peritune.com/" target="_blank">https://peritune.com/</a></p>
+  <hr>
+
+  <p>⋄ On-Jin ～音人～ 様<br>
+  <a href="https://on-jin.com/" target="_blank">https://on-jin.com/</a></p>
+  <hr>
+
+  <p>⋄ MusMus 様<br>
+  <a href="https://musmus.main.jp/" target="_blank">https://musmus.main.jp/</a></p>
+  <hr>
+
+  <p>⋄ D-elf 様<br>
+  <a href="https://www.d-elf.com/" target="_blank">https://www.d-elf.com/</a></p>
+  <hr>
+
+  <p>⋄ ポケットサウンド 様<br>
+  <a href="https://pocket-se.info/" target="_blank">https://pocket-se.info/</a></p>
+  <hr>
+
+  <p>⋄ 魔王魂 様<br>
+  <a href="https://maou.audio/" target="_blank">https://maou.audio/</a></p>
+  <hr>
+
+  <p>⋄ MOONLIT. BGM Factory 様<br>
+  <a href="https://www.youtube.com/@MOONLIT_BGM_Factory" target="_blank">
+    https://www.youtube.com/@MOONLIT_BGM_Factory
+  </a></p>
+  <hr>
+
+  <p>⋄ zippy 様<br>
+  <a href="https://www.youtube.com/channel/UC_HEUfa586nqOb44Z1ayoFQ" target="_blank">
+    https://www.youtube.com/channel/UC_HEUfa586nqOb44Z1ayoFQ
+  </a></p>
+  <hr>
+
+  <p>⋄ World Fantasia 様<br>
+  <a href="https://www.youtube.com/@world_fantasia" target="_blank">
+    https://www.youtube.com/@world_fantasia
+  </a></p>
+  <hr>
+
+  <p>⋄ にゃるぱかBGM工房 様<br>
+  <a href="https://www.youtube.com/channel/UCuajCUqONzGf-fT9T7av1iQ" target="_blank">
+    https://www.youtube.com/channel/UCuajCUqONzGf-fT9T7av1iQ
+  </a></p>
+  <hr>
+
+  <p>⋄ ふぁいの音楽置き場 様<br>
+  <a href="https://www.youtube.com/channel/UCrvz9x7mlNDmbU_CTR1y4YQ" target="_blank">
+    https://www.youtube.com/channel/UCrvz9x7mlNDmbU_CTR1y4YQ
+  </a></p>
+  <hr>
+
+  <p>⋄ のすたるじっくBGM庫 様<br>
+  <a href="https://www.youtube.com/@nostalgic_BGM" target="_blank">
+    https://www.youtube.com/@nostalgic_BGM
+  </a></p>
+  <hr>
+
+  <p>⋄ NoCopyrightSounds 様<br>
+  <a href="https://www.youtube.com/@NoCopyrightSounds" target="_blank">
+    https://www.youtube.com/@NoCopyrightSounds
+  </a></p>
+  <hr>
+
+  <p>⋄ CVllXXX 様<br>
+  <a href="https://www.youtube.com/channel/UC8T8FoCAhg64dNIxQfCwhEQ" target="_blank">
+    https://www.youtube.com/channel/UC8T8FoCAhg64dNIxQfCwhEQ
+  </a></p>
+  <hr>
+
+  <p>⋄ AOmaterial（フリー素材配布サイト） 様<br>
+  <a href="https://aomaterial.com/" target="_blank">
+    https://aomaterial.com/
+  </a></p>
+  <hr>
+
+  <p>⋄ YouTuberのための素材屋さん 様<br>
+  <a href="https://ytsozaiyasan.com/" target="_blank">
+    https://ytsozaiyasan.com/
+  </a></p>
+  <hr>
+
+  <p>⋄ 効果音ラボ（効果音ポン出し） 様<br>
+  <a href="https://soundeffect-lab.info/pon/" target="_blank">
+    https://soundeffect-lab.info/pon/
+  </a></p>
+  <hr>
+
+  <p>⋄ OKUMONO 様<br>
+  <a href="https://sozaino.site/" target="_blank">
+    https://sozaino.site/
+  </a></p>
+
+</div>
+
+<p style="font-size:12px; color:#666; margin-top:40px;">
+  最終更新：2025年 12月
+</p>
+
